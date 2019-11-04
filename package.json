@@ -1,0 +1,23 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Valera78/sever.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Valera78/sever/issues"
+  },
+  "homepage": "https://github.com/Valera78/sever#readme",
+  "dependencies": {
+    "mongodb": "^3.3.3",
+    "ws": "^7.2.0"
+  }
+}
