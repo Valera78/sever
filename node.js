@@ -15,7 +15,6 @@ client.connect(err => {
   client.close();
 });
 
- 
 http.createServer(function(request, response){
     response.status = 200;
     response.setHeader('Content-type','text/html;charset=utf-8;');
